@@ -4,7 +4,7 @@ StudySync is a fully responsive and user-friendly educational website built from
 
 ## 🌐 Live Demo
 
-👉 [View Website](https://ritikajaiswal02.github.io/Recipe-guide/)  
+👉 [View Website]([https://ritikajaiswal02.github.io/Recipe-guide/](https://ritikajaiswal02.github.io/StudySync-website/))  
 *Note: This is my first self-developed website project. No AI tools were used—everything is made from scratch.*
 
 ## 📌 Features
